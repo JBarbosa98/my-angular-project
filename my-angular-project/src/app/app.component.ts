@@ -33,6 +33,5 @@ export class AppComponent implements OnInit {
       }
     );
   }
-
   title = 'my-angular-project';
 }
